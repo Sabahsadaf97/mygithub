@@ -1,0 +1,19 @@
+.header{
+    background-color: aqua;
+    text-align: center;
+    background-image: url(https://www.alamy.com/lightbox/);
+
+}
+.nav
+{
+    background-color: aqua;
+    columns: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
